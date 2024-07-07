@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #FFEEA9;
+    height: 60px;
+    
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.nav a li{
+    list-style-type: none;
+    margin: 16px;
+    color: #FF7D29;
+}

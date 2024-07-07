@@ -1,7 +1,13 @@
 import React from 'react'
+import Home from './Home'
 
 export default function About() {
   return (
-    <div>About</div>
+    <>
+    <Home/>
+    <div className="name">
+    <h1>About</h1>
+    </div>
+    </>
   )
 }

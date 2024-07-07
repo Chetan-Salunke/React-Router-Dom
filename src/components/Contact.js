@@ -1,7 +1,11 @@
 import React from 'react'
+import Home from './Home'
 
 export default function Contact() {
   return (
-    <div>Contact</div>
+    <>
+    <Home/>
+    <h1>Contact</h1>
+    </>
   )
 }

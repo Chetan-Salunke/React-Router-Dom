@@ -1,7 +1,13 @@
 import React from 'react'
+import Home from './Home'
 
 export default function Services() {
   return (
-    <div>Services</div>
+    <>
+    <Home/>
+    <h1>Services</h1>
+    </>
+
+
   )
 }
